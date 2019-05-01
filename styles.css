@@ -1,0 +1,89 @@
+
+img{
+    width:100px;
+    height:100px;
+}
+
+.heading{
+    display:flex;
+    justify-content:space-around; 
+
+}
+.container{
+     display:flex;
+    justify-content:space-around; 
+}
+.item{
+  display:flex;
+  justify-content:space-around;
+  background:#b94f74;
+   
+}
+.storeName{
+    background:#F2D2CE;
+    color:white;
+    padding:25px;
+    margin:10px;
+    border:5px solid black;
+    text-align:center;
+    font-size:40px;
+    }
+.total{
+    background:#b94f74;
+    color:white;
+    padding:5px;
+    margin:10px;
+    border: solid black;
+    text-align:center;
+}
+    
+.shoppingList {
+    display: flex;
+    justify-content: space-around;
+}
+.number{
+   background:#b94f74;
+    color:white;
+    padding:2px;
+    margin:10px;
+    border: solid black;
+    text-align:center; 
+}
+p{
+    background:#c7afd0;
+    color:white;
+    padding:2px;
+    margin:10px;
+    border: solid black;
+    text-align:center;
+}
+.newItem{
+    background:#c1d7e2;
+    color:black;
+    padding:2px;
+    margin:10px;
+    border: solid black;
+    text-align:center;
+    font-size: 15px;
+}
+.purchase{
+    background:#c1d7e2;
+    color:black;
+    padding:2px;
+    margin:10px;
+    border: solid black;
+    text-align:center;
+    font-size: 15px;
+}
+body{
+    background:#bf8881;
+    padding:2px;
+    margin:10px;
+    border: solid black;
+    text-align:center;
+}
+.inputs{
+    color:black;
+     background:#bf8881;
+     text-decoration: underline;
+}
